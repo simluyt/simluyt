@@ -12,4 +12,4 @@ I am a full-stack developer working for Craftworkz. I am interested in most tech
 - Make a contribution to some OSS.
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simluyt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simluyt&layout=compact)
