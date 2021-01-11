@@ -10,3 +10,6 @@ I am a full-stack developer working for Craftworkz. I am interested in most tech
 
 ## Things I want to do
 - Make a contribution to some OSS.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simluyt&layout=compact)](https://github.com/simluyt/github-readme-stats)
