@@ -5,7 +5,8 @@
 I am a full-stack developer working for Craftworkz. I am interested in most technologies so you'll always find me messing with some kind of language, framework or application.
 
 ## Current Personal Projects
-- A mini coolors.co clone using #svelte
+- A mini coolors.co clone using #sveltekit
+- A geographical poster generator
 - simonluyten.be
 
 ## Things I want to do
