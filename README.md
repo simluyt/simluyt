@@ -2,7 +2,20 @@
 
 
 ## Introduction
-I am a full-stack developer working for Craftworkz. I am interested in most technologies so you'll always find me messing with some kind of language, framework or application.
+I am a full-stack developer working for [Craftworkz](https://craftworkz.be). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application.
+
+## Knowledge (This is a permanent work in progress ;))
+### Programming Languages
+- badges here
+
+### Frameworks
+- badges here
+
+### Topics
+- Some info about topics I am somewhat knowledgeable in
+
+### Certifications ?
+- idk if I should keep this
 
 ## Current Personal Projects
 - A mini coolors.co clone using #sveltekit
@@ -10,7 +23,7 @@ I am a full-stack developer working for Craftworkz. I am interested in most tech
 - simonluyten.be
 
 ## Things I want to do
-- Make a contribution to some OSS.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simluyt&layout=compact)
+- Make a contribution to some open source project.
+- Implement a pl guided by [crafting interpreters](https://craftinginterpreters.com)
+- Implement a neural network from scratch using [nnfs](nnfs.io)
+- Build a raytracer in rust with [Raytracer in a weekend](https://raytracing.github.io/)
