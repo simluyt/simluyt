@@ -1,4 +1,4 @@
-# Hi there, I'm Simon Luyten 👋
+# hi there, I'm Simon 👋
 
 
 ## introduction
