@@ -1,7 +1,7 @@
 # Hi there, I'm Simon Luyten 👋
 
 
-## Introduction
+## introduction
 I am a full-stack developer working for [craftworkz](https://craftworkz.be). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application.
 
 ## current personal projects
