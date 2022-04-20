@@ -2,7 +2,7 @@
 
 
 ## introduction
-I am a full-stack developer working for [craftworkz](https://craftworkz.be). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application.
+I am a full-stack blockchain developer working for [arcadia finance](https://arcadia.finance). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application. Currently into all things blockchain :p
 
 ## current personal projects
 - a mini coolors.co clone using #svelte
