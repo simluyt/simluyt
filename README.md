@@ -14,4 +14,4 @@ I am a full-stack blockchain developer working for [arcadia finance](https://arc
 - implement a pl guided by [crafting interpreters](https://craftinginterpreters.com)
 - implement a neural network from scratch using [nnfs](nnfs.io)
 - build a raytracer in rust with [raytracer in a weekend](https://raytracing.github.io/)
-- make a hardcode platformer game.
+- make a hardcode platformer game + bonus: make it run natively on a gba.
