@@ -16,7 +16,11 @@ I am a full-stack blockchain developer working for [arcadia finance](https://arc
 
 ## things I want to do
 - make a contribution to some open source project.
+  - status: actively looking for my first rust-based related evm tooling ticket
 - implement a pl guided by [crafting interpreters](https://craftinginterpreters.com)
+  - status: got the book, now need time.
 - implement a neural network from scratch using [nnfs](nnfs.io)
-- build a raytracer in rust with [raytracer in a weekend](https://raytracing.github.io/)
 - make a hardcode platformer game + bonus: make it run natively on a gba.
+
+## things I did
+- build a raytracer in rust with [raytracer in a weekend](https://raytracing.github.io/)
