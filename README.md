@@ -2,7 +2,12 @@
 
 
 ## introduction
-I am a full-stack blockchain developer working for [arcadia finance](https://arcadia.finance). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application. Currently into all things blockchain :p
+I am a full-stack blockchain developer working for [arcadia finance](https://arcadia.finance). I am interested in most technologies so you'll always find me messing with some kind of language, framework or application. currently into all things blockchain. Ambitious to empower the evm ecosystem with rust.
+
+## main interests
+- anything EVM Related
+- compiler Design
+-  ...
 
 ## current personal projects
 - a mini coolors.co clone using #svelte [here](https://palalette.vercel.app)
